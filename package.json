@@ -1,0 +1,16 @@
+{
+  "name": "figmajivoapi",
+  "version": "1.0.0",
+  "description": "Script that will apload the data from Figma",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Turabov Nikita",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "figma-api": "^1.9.2"
+  }
+}
